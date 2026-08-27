@@ -87,9 +87,11 @@ Minha transição não começou do zero. Iniciar a carreira lidando diretamente 
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=MateusBrito-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Mateus" height="165"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusBrito-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" height="165"/> 
+<div align="center">
+  <img src="profile-summary-cards-output/tokyonight/0-profile-details.svg" alt="Detalhes do Perfil" width="600" />
+  <br/>
+  <img src="profile-summary-cards-output/tokyonight/1-repo-stats.svg" alt="Estatísticas de Repositório" width="295" />
+  <img src="profile-summary-cards-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais utilizadas" width="295" />
 </div>
 
 <br/>

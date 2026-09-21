@@ -88,13 +88,15 @@ Minha transição não começou do zero. Iniciar a carreira lidando diretamente 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="profile-summary-cards-output/tokyonight/0-profile-details.svg" alt="Detalhes do Perfil" width="600" />
-  <br/>
-  <img src="profile-summary-cards-output/tokyonight/1-repo-stats.svg" alt="Estatísticas de Repositório" width="295" />
-  <img src="profile-summary-cards-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais utilizadas" width="295" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MateusBrito-hub&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&locale=pt-br&hide_border=false" height="150" alt="Brito's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MateusBrito-hub&locale=pt-br&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MateusBrito-hub/MateusBrito-hub/output/snake.svg" alt="Snake animation" />
+</div>
 
 ## 📫 Vamos nos conectar?
 
